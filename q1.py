@@ -7,3 +7,7 @@ def b_fun():
 b_fun()
 a_fun()
 print (name)
+
+
+##output:-
+##A

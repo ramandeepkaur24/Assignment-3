@@ -10,3 +10,10 @@ def disp():
 emp(111,'ratan',10000.45)
 disp()
 print(eid,ename,esal)
+
+
+
+##output:-
+##1 aaa 10000.56
+##111 ratan 10000.45
+##111 ratan 10000.45

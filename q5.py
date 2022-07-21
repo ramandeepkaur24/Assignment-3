@@ -8,3 +8,7 @@ def f():
     print("After calling g: ",x)
 f()
 
+
+##output:-
+##Before calling g:  43
+##After calling g:  43
